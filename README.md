@@ -1,4 +1,11 @@
-# college-demo
-this is my first git repository. 
-<br>
-Author-komal gowda A
+# Smart Cow Shed Monitoring System
+
+This project is used to monitor and automate cow shed conditions using Arduino.
+
+## Features
+- Temperature monitoring
+- Automatic control system
+- Smart monitoring
+
+## Author
+Komal Gowda
